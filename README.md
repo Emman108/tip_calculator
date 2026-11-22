@@ -18,8 +18,13 @@ A Flutter application that calculates tip amounts and total bills using selected
 - Dart
 - Visual Studio Code
 
-## Screenshot
+## Screenshots
+
+### Tip Calculator
 ![Tip Calculator](screenshots/tip_calculator.png)
+
+### Invalid Amount
+![Invalid Amount](screenshots/invalid_input.png)
 
 ## Testing
 - flutter analyze
